@@ -2,31 +2,37 @@
 
 Welcome to the SQL Server Development and Data Analysis repository! This repository features a collection of SQL and T-SQL scripts, tips, and queries focused on using Microsoft SQL Server for data analysis, reporting, and business intelligence. Whether you're building data models, performing complex queries, or creating business intelligence solutions, this repository provides practical examples to help you get the most out of SQL Server.
 
-
-
-How to Use
-
-Each folder contains SQL scripts, T-SQL queries, or data analysis examples that you can execute within your own SQL Server environment. Follow the provided instructions to integrate the scripts into your projects for data analysis or business intelligence use cases.
-Getting Started:
-
-    Install SQL Server:
-        Download SQL Server and follow the official setup guide for installation.
-
-    Run Queries Using SQL Server Management Studio (SSMS):
-        Download SSMS and run the queries in this repository to perform various data analysis tasks.
-
-    Leverage SQL Server on Azure for Cloud-Based Solutions:
-        Explore SQL Server on Azure for deploying scalable data analysis solutions.
-
-Category
-
-    SQL Server Development & Data Analysis
-
-Technologies
-
-    SQL & T-SQL
-    SQL Server Database Engine
-    SQL Server Analysis Services (SSAS)
-    SQL Server Reporting Services (SSRS)
-    SQL Server Integration Services (SSIS)
-    SQL Server on Azure
+<table>
+  <thead>
+    <tr>
+      <th>Technology</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="./SQL_TSQL"><strong>SQL & T-SQL</strong></a></td>
+      <td>Essential SQL and T-SQL scripts for data manipulation, querying, and optimization.</td>
+    </tr>
+    <tr>
+      <td><a href="./SQL_Server_Database_Engine"><strong>SQL Server Database Engine</strong></a></td>
+      <td>Examples on using the engine for efficient data storage, retrieval, and processing.</td>
+    </tr>
+    <tr>
+      <td><a href="./SSAS"><strong>SQL Server Analysis Services (SSAS)</strong></a></td>
+      <td>Data analysis, OLAP cubes, and building comprehensive business intelligence solutions.</td>
+    </tr>
+    <tr>
+      <td><a href="./SSRS"><strong>SQL Server Reporting Services (SSRS)</strong></a></td>
+      <td>Create advanced reports and data visualizations for business insights.</td>
+    </tr>
+    <tr>
+      <td><a href="./SSIS"><strong>SQL Server Integration Services (SSIS)</strong></a></td>
+      <td>Automating data extraction, transformation, and loading (ETL) processes.</td>
+    </tr>
+    <tr>
+      <td><a href="./SQL_Server_on_Azure"><strong>SQL Server on Azure</strong></a></td>
+      <td>Explore cloud-based SQL Server capabilities for scalable, secure data analysis.</td>
+    </tr>
+  </tbody>
+</table>
