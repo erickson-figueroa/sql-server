@@ -1,0 +1,6 @@
+user_id,username,email,password,created_at,post_id,content,title,upated_at,comments
+uid1,sarah_c,sarah@example.com,sarapass,2024-01-16 8:10,pid3,JavaScript is a popular …,JavaScript Basics,2024-01-16 9:30,JavaScript is amazing! 2024-01-16 08:30 cid5
+uid2,emily_j,emily@example.com,secure123,2024-01-16 17:30,pid5,Build web applications using …,Python Web Development,2024-01-16 18:00,Thanks for the tutorial! 2024-01-16 18:00 cid7
+uid3,jane_s,jane@example.com,passw0rd,2024-01-14 14:45,pid1,Python is a verstile and …,Getting Started with Python,2024-01-15 10:20,I learned a lot. 2024-01-14 16:00 cid2 | Thanks for the tutorial! 2024-01-14 15:30 cid1
+uid4,michael_b,michael@example.com,p@ssw0rd,2024-01-16 12:20,pid4,Learn about various data …,Data Structures in C++,2024-01-16 15:45,Great explaination! 2024-01-16 13:00 cid6
+uid5,john_d,john@example.com,password123,2024-01-15 9:30,pid2,MongoDB is a highly scalable …,Introduction to MongoDB,2024-01-15 9:35, Well explaind. 2024-01-15 10:00 cid4 | Great article! 2024-01-15 09:45 cid3
