@@ -11,7 +11,7 @@ Welcome to the SQL Server Development and Data Analysis repository! This reposit
   </thead>
   <tbody>
     <tr>
-      <td><a href="SQL_TSQ"><strong>SQL & T-SQL</strong></a></td>
+      <td><a href="SQL_TSQL"><strong>SQL & T-SQL</strong></a></td>
       <td>Essential SQL and T-SQL scripts for data manipulation, querying, and optimization.</td>
     </tr>
     <tr>
