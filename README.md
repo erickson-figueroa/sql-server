@@ -1,4 +1,4 @@
-# SQL Server Development and Data Analysis Projects 💾
+# SQL Server Development 💾 (under construction)
 
 Welcome to the SQL Server Development and Data Analysis repository! This repository features a collection of SQL and T-SQL scripts, tips, and queries focused on using Microsoft SQL Server for data analysis, reporting, and business intelligence. Whether you're building data models, performing complex queries, or creating business intelligence solutions, this repository provides practical examples to help you get the most out of SQL Server.
 
