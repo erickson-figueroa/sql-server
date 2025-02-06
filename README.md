@@ -14,26 +14,6 @@ Welcome to the SQL Server Development and Data Analysis repository! This reposit
       <td><a href="SQL_TSQL"><strong>SQL & T-SQL</strong></a></td>
       <td>Essential SQL and T-SQL scripts for data manipulation, querying, and optimization.</td>
     </tr>
-    <tr>
-      <td><a href="SQL_Server_Database_Engine"><strong>SQL Server Database Engine</strong></a></td>
-      <td>Examples on using the engine for efficient data storage, retrieval, and processing.</td>
-    </tr>
-    <tr>
-      <td><a href="SSAS"><strong>SQL Server Analysis Services (SSAS)</strong></a></td>
-      <td>Data analysis, OLAP cubes, and building comprehensive business intelligence solutions.</td>
-    </tr>
-    <tr>
-      <td><a href="SSRS"><strong>SQL Server Reporting Services (SSRS)</strong></a></td>
-      <td>Create advanced reports and data visualizations for business insights.</td>
-    </tr>
-    <tr>
-      <td><a href="SSIS"><strong>SQL Server Integration Services (SSIS)</strong></a></td>
-      <td>Automating data extraction, transformation, and loading (ETL) processes.</td>
-    </tr>
-    <tr>
-      <td><a href="SQL_Server_on_Azure"><strong>SQL Server on Azure</strong></a></td>
-      <td>Explore cloud-based SQL Server capabilities for scalable, secure data analysis.</td>
-    </tr>
   </tbody>
 </table>
 
